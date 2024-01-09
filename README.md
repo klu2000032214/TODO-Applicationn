@@ -44,7 +44,7 @@ The To-Do List App is a complete solution for efficient task management, not jus
 ![View Task](https://github.com/klu2000032214/TODO-Applicationn/assets/97324581/cb988732-5b2d-4334-affd-10dee60e468d)
 ![image](https://github.com/klu2000032214/TODO-Applicationn/assets/97324581/e4c696fe-b066-4422-9a0c-6287f5d1815a)
 ![image](https://github.com/klu2000032214/TODO-Applicationn/assets/97324581/b5afa021-06b0-4b27-83bb-8bed0dd8cc7c)
-![image](https://github.com/klu2000032214/TODO-Applicationn/assets/97324581/b3641b75-7553-4e65-bb0f-6c93c6cd429b)
+![image](https://github.com/klu2000032214/TODO-Applicationn/assets/97324581/1a26c1b7-5edb-4fad-aef7-ab13947d751b)
 ![image](https://github.com/klu2000032214/TODO-Applicationn/assets/97324581/e1ed51aa-8e5f-4b2b-b489-d13baf149611)
 
 ## Contributing
