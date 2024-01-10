@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="prioritySpinner" type="id" />
+    <item name="dueDateEditText" type="id" />
+    <item name="descriptionEditText" type="id" />
+    <item name="titleEditText" type="id" />
+    <item name="addButton" type="id" />
+    <item name="statusSpinner" type="id" />
+    <item name="categoryEditText" type="id" />
+</resources>
